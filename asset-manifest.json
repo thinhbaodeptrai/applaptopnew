@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/applaptopnew/static/css/main.6a009bf7.css",
+    "main.js": "/applaptopnew/static/js/main.4f215e8e.js",
+    "static/js/787.4a196311.chunk.js": "/applaptopnew/static/js/787.4a196311.chunk.js",
+    "static/media/logoadmin.webp": "/applaptopnew/static/media/logoadmin.129e51b7c72d2b223a4f.webp",
+    "index.html": "/applaptopnew/index.html",
+    "main.6a009bf7.css.map": "/applaptopnew/static/css/main.6a009bf7.css.map",
+    "main.4f215e8e.js.map": "/applaptopnew/static/js/main.4f215e8e.js.map",
+    "787.4a196311.chunk.js.map": "/applaptopnew/static/js/787.4a196311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a009bf7.css",
+    "static/js/main.4f215e8e.js"
+  ]
+}
